@@ -18,7 +18,7 @@ This repository contains a simple and modern responsive pricing table built with
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository:
-git clone https://github.com/yourusername/pricing-table.git
+git clone https://github.com/chunkydevs/pricing-table.git
 cd pricing-table
 
 ### 2. Open in Browser:
