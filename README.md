@@ -31,8 +31,7 @@ You can modify the following in style.css:
 - **Spacing**: Adjust paddings and margins for layout tweaks.
 
 ## 🖼️ Preview
-![Pricing Table Screenshot][Screenshot 2024-12-09 145437](https://github.com/user-attachments/assets/88ac3aeb-5cba-4582-85cd-bcf3a5ccbd75)
-k-to-your-screenshot.png)
+![Pricing Table Screenshot][Screenshot 2024-12-09 145437]
 
 ## 🛠️ Built With
 - **HTML5**: For structure.
